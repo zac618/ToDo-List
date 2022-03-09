@@ -46,3 +46,12 @@ input {
     color: black;
 }
 
+ul {
+    width: 75%;
+    margin-right: 0;
+    padding: 10px;
+    border: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DFF8EB;
+}
